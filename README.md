@@ -31,3 +31,14 @@ This repo is to track my leetcode progress and stay consistant on DSA
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+<!---LeetCode Topics End-->
