@@ -36,9 +36,11 @@ This repo is to track my leetcode progress and stay consistant on DSA
 ## Array
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
