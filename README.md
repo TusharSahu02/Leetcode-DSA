@@ -36,6 +36,7 @@ This repo is to track my leetcode progress and stay consistant on DSA
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
@@ -60,5 +61,6 @@ This repo is to track my leetcode progress and stay consistant on DSA
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
