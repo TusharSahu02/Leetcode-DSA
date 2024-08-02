@@ -41,6 +41,7 @@ This repo is to track my leetcode progress and stay consistant on DSA
 | [1392-find-the-difference-of-two-arrays](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2727-number-of-senior-citizens](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ This repo is to track my leetcode progress and stay consistant on DSA
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [2727-number-of-senior-citizens](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
