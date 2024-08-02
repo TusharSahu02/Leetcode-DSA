@@ -40,6 +40,7 @@ This repo is to track my leetcode progress and stay consistant on DSA
 | [1319-unique-number-of-occurrences](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ This repo is to track my leetcode progress and stay consistant on DSA
 | ------- |
 | [0724-find-pivot-index](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TusharSahu02/Leetcode-DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
